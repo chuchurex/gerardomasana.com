@@ -1,0 +1,86 @@
+/* CSS Document */
+body {background:#ccc;margin:0;padding:4px;text-align:center;font:x-small/1.5em "Trebuchet MS",Verdana,Arial,Sans-serif;color:#333;font-size/* */:/**/small; font-size: /**/small;}
+/* Estructura del sitio
+----------------------------------------------- */
+#content {width:775px;margin:0 auto;text-align:left;}
+#header {text-align: center;}
+#main {width:775px;float:left;background:#fff url(../gfx/main_bot.jpg) no-repeat left bottom;margin:4px 0 0 0px;padding:0 0 5px;color:#000;font-size:97%;line-height:1.5em;}
+#main2 {width:100%;background:url(../gfx/main_top.jpg) no-repeat left top;padding:10px 0 0;margin-left: 0px;}
+#main3 {background:url(../gfx/main_rell.gif) repeat-y;padding:0;margin: 0px;}
+#cont {width:591px;float:left;background:#fff url(../gfx/cont_bot.jpg) no-repeat left bottom;margin:4px 0 0 0px;padding:0 0 5px;color:#000;font-size:97%;line-height:1.5em;}
+#cont2 {width:100%;background:url(../gfx/cont_top.jpg) no-repeat left top;padding:10px 0 0;margin-left: 0px;}
+#cont3 {background:url(../gfx/cont_rell.gif) repeat-y;padding:0;margin: 0px;}
+#colum {width:181px;float: right;background:#fff url(../gfx/colum_bot.jpg) no-repeat left bottom;margin:4px 0 0 0px;padding:0 0 5px;color:#000;font-size:97%;line-height:1.5em;}
+#colum2 {width:100%;background:url(../gfx/colum_top.jpg) no-repeat left top;padding:10px 0 0;margin-left: 0px;}
+#colum3 {background:url(../gfx/colum_rell.gif) repeat-y;padding:0;margin: 0px;}
+#colum3 img{margin:0px 10px 11px 11px; border:0; padding:0px;}
+#colum3 p {margin: 0px 13px 6px;padding: 0px;color: #CC6600;font-weight: bold;}
+#colum3 h2  {color:#000000;font-size: 13px;font-weight: bold;margin: 0px 5px;padding: 0px;text-align: center;}
+#colum3 h3  {color:#003366;font-size: 13px;font-weight: bold;margin: 0px 5px 5px;padding: 0px;text-align: center;}
+#colum3 a:link {text-decoration: underline;}
+#colum3 a:visited {text-decoration: underline;}
+#colum3 a:hover {text-decoration: underline;}    
+#pie {clear:both;margin: 10px 5px 5px;padding: 10px 0px 0px;font-family: Arial, Helvetica, sans-serif;font-size: xx-small;color: #003366;text-align: center;}
+#pie a:link{color: #003366;font-weight: bold;}
+#pie p{margin: -1px;padding: 0px;}
+/* Navegacion
+----------------------------------------------- */  
+#navlist { width:775px;	background:url(../gfx/barra.jpg) no-repeat left bottom;padding:0px 0 0px 0px; 	font-size:13px; line-height:1.6em; height: 23px;text-align: center; font-family: Arial, Helvetica, sans-serif; margin: 3px 0px 0px;}
+#navlist a:link {color:#fff; font-weight: bold; text-decoration: none; margin:0px; padding:0px;}
+#navlist a:visited {color:#fff; font-weight: bold; text-decoration: none; margin:0px; padding:0px;}
+#navlist a:hover {color:#fff; text-decoration: underline; margin:0px; padding:0px;}
+#navñist a.current {color:#fff; text-decoration: underline; margin:0px; padding:0px;}  
+#navlist ul {margin: 0px;padding: 0px;}
+#navlist li {margin: 0px;padding: 0px 5px 0px 5px; display: inline;list-style-type: none;}
+/* contenido abajo
+----------------------------------------------- */
+#down {padding: 13px 32px 20px;}    
+#down p img{float:left; padding: 2px; border: thin groove #95ABB9; margin: 0.4em 7px 1px 0px;}
+#down p .carad{float:right;margin-right: 0px;margin-left: 15px;}  
+#foto {width: 600px;margin:0 auto;padding: 13px 0px 15px;text-align: center;width: 600px;} 
+.f{padding: 2px;border: thin groove #95ABB9;margin-top: 0px;margin-right: 7px;margin-bottom: 1px;margin-left: 0px;float: none;}	    
+/* Estilos de titulo
+----------------------------------------------- */
+#title   {width:100%;height: 113px;}    
+.hm   {background:url(../gfx/title.gif) no-repeat;height: 80px;} 
+.fa   {background:url(../familia/gfx/title.gif) no-repeat;}
+.vi   {background:url(../vida/gfx/title.gif) no-repeat;}  
+.co   {background:url(../coro/gfx/title.gif) no-repeat;}  
+.sm   {background:url(../contacto/gfx/title.gif) no-repeat;}        
+.es   {background:url(../espectaculos/gfx/title.gif) no-repeat;}  
+.ll   {background:url(../luthiers/gfx/title.gif) no-repeat;} 
+.ins   {background:url(../instrumentos/gfx/title.gif) no-repeat;}   
+.cn   {background:url(../canciones/gfx/title.gif) no-repeat;}
+.lb   {background:url(../libro/gfx/title.gif) no-repeat;}
+.lbr {padding: 20px 32px;line-height: 30px;}
+.hom {padding: 25px 23px;}
+.ang {width:500px;}
+/* Estilos de Texto
+----------------------------------------------- */
+h1 {color: #7A96A9;font-size: 25px;margin: 0px;padding: 55px 32px 0px;}
+h2 {color: #7A96A9;font-size: 20px;margin:.5em 0 .2em 0;font-weight: normal;}
+h3 {color: #333333;font-size: 18px;margin:0px 0 0.2em;font-weight: normal;padding-top: 0px;}
+h4 {color: #333333;font-size: 15px;margin:0.7em 0 0.2em;font-weight: normal;}
+h5 {font-size: 14px;font-weight: normal;margin: 0px;padding: 0px;}
+p {margin:0.4em 0 0.1em;}
+p.infor {width: 500px;}
+a{color:#495472;font-weight: bold;text-decoration:underline}a:link {} a:visited{} a:hover{} a:active{}
+.cara {padding: 2px;border: thin groove #95ABB9;margin-top: 0px;margin-right: 7px;margin-bottom: 1px;margin-left: 0px;}
+
+td {vertical-align: top;}
+th {color: #FFFFFF;background-color: #8CA2B5;text-align: center;}
+.margsup {margin-top: 30px;}
+.bar {vertical-align: middle;margin-right: 3px;margin-left: 3px;}
+.parriba {margin-top: -30px;}
+.epi {width: 600px;padding-top: 10px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;margin: 0px;text-align: left;}
+.epi2 {width: 600px;padding-top: 10px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;margin: 0px;text-align: center;}
+.margsup2 {margin-top: 0px;}
+#franja {padding: 0px;margin-top: 15px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;text-align: center;width: 710px;}
+#stat {visibility: hidden;}
+#navlist ul {margin: 0px;padding: 0px;}
+#navlist li {margin: 0px;padding: 0px 5px 0px 5px; display: inline;list-style-type: none;}
+.marinden {text-indent: 25px;text-align: justify;}
+form {margin: 0px;padding: 0px;}
+#footnav {clear:both;margin: 10px 5px 0px;padding: 10px 0px 0px;text-align: center;}
+#down p img.limpia {border: none;padding: 0px;margin-top: 0px;margin-right: 10px;margin-bottom: 0px;margin-left: 0px;}
+
