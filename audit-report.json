@@ -1,0 +1,43 @@
+{
+  "brokenLinks": [],
+  "missingImages": [
+    {
+      "file": "legacy/Untitled-1.html",
+      "resource": "ImageServlet?idDocumento=10100&amp;indice=0",
+      "resolved": "/Users/chuchurex/Sites/prod/gerardomasana.com/legacy/ImageServlet?idDocumento=10100&amp;indice=0"
+    },
+    {
+      "file": "legacy/Untitled-1.html",
+      "resource": "ImageServlet?idDocumento=10090&amp;indice=0",
+      "resolved": "/Users/chuchurex/Sites/prod/gerardomasana.com/legacy/ImageServlet?idDocumento=10090&amp;indice=0"
+    },
+    {
+      "file": "legacy/Untitled-1.html",
+      "resource": "ImageServlet?idDocumento=10091&amp;indice=0",
+      "resolved": "/Users/chuchurex/Sites/prod/gerardomasana.com/legacy/ImageServlet?idDocumento=10091&amp;indice=0"
+    },
+    {
+      "file": "legacy/Untitled-1.html",
+      "resource": "ImageServlet?idDocumento=10092&amp;indice=0",
+      "resolved": "/Users/chuchurex/Sites/prod/gerardomasana.com/legacy/ImageServlet?idDocumento=10092&amp;indice=0"
+    }
+  ],
+  "missingCSS": [
+    {
+      "file": "legacy/Untitled-1.html",
+      "resource": "/mi/framework/skeletons/miuchile/css/layout.css",
+      "resolved": "/mi/framework/skeletons/miuchile/css/layout.css"
+    },
+    {
+      "file": "legacy/Untitled-1.html",
+      "resource": "/mi/framework/skins/miuchile/css/miuchile.css",
+      "resolved": "/mi/framework/skins/miuchile/css/miuchile.css"
+    },
+    {
+      "file": "legacy/Untitled-1.html",
+      "resource": "/mi/framework/skins/miuchile/css/gfdynamicfeedcontrol.css",
+      "resolved": "/mi/framework/skins/miuchile/css/gfdynamicfeedcontrol.css"
+    }
+  ],
+  "orphanedFiles": []
+}
