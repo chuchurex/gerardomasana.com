@@ -43,3 +43,9 @@ vercel --prod   # produccion
 - `CREDENTIALS.md` está gitignored; contiene credenciales, no exponer.
 - El README describe un stack Astro + Tailwind que aún no existe en el repo (Fase 2 planificada).
 - Deploy alternativo a Hostinger vía SSH/rsync con `deploy-legacy.sh` (usa vars `UPLOAD_*`).
+
+## Infraestructura (deploy y datos SEO)
+
+El deploy en Cloudflare y el acceso a datos SEO (Search Console / Analytics) usan credenciales
+gestionadas localmente por el mantenedor, fuera del repositorio. No hay secretos versionados:
+tokens y service accounts viven solo en el entorno local, nunca en el repo.
